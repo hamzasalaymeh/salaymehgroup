@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamzasalaymeh.github.io/heritage-register11/sitemap.xml
